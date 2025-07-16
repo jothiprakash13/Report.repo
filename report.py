@@ -40,4 +40,4 @@ else:
         print(f"Total: {row['TOTAL']}")
         print(f"Average: {row['AVERAGE']:.2f}")
         print(f"Grade: {row['GRADE']}")
-        print("----------------------------\n")
+        print("--------------\n")
