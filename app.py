@@ -27,7 +27,7 @@ while True:
     elif choice == "2":
         read_entries()
     elif choice == "3":
-        print("👋 Goodbye!")
+        print(" Goodbye!")
         break
     else:
         print("Invalid choice. Try again.")
